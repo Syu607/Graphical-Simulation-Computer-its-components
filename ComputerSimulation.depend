@@ -1,0 +1,132 @@
+# depslib dependency file v1.0
+1688025056 source:c:\users\user\desktop\1sk21cs408\computersimulation\main.cpp
+	<GL/glut.h>
+	<iostream>
+	"parameter.h"
+	"motion.h"
+	"objects.h"
+	"bitmap.h"
+	"light.h"
+
+1426329928 c:\program files\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1426329928 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1686754598 c:\program files\codeblocks\mingw\include\parameter.h
+	<math.h>
+	<GL/glut.h>
+
+1689000000 c:\program files\codeblocks\mingw\include\motion.h
+	"parameter.h"
+	"objects.h"
+
+1689000565 c:\program files\codeblocks\mingw\include\objects.h
+	<GL/glut.h>
+	<GL/freeglut.h>
+	"bmpLoader.h"
+	"cpu_fan.h"
+	"cpu_motherboard.h"
+	"cpu_case.h"
+	"cpu_ram.h"
+	"cpu_chipset.h"
+	"cpu_gpu.h"
+	"cpu_psu.h"
+	"cpu_harddisk.h"
+	"environment_objects.h"
+	"env_table.h"
+	"cpu_cable.h"
+
+1426329928 c:\program files\codeblocks\mingw\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1426329928 c:\program files\codeblocks\mingw\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1686752805 c:\program files\codeblocks\mingw\include\bmploader.h
+	<windows.h>
+	<GL/glut.h>
+	<stdio.h>
+
+1687717739 c:\program files\codeblocks\mingw\include\cpu_fan.h
+	<windows.h>
+	<mmsystem.h>
+	"parameter.h"
+	"dragHandler.h"
+
+1686752805 c:\program files\codeblocks\mingw\include\draghandler.h
+
+1687716088 c:\program files\codeblocks\mingw\include\cpu_motherboard.h
+	<GL/glut.h>
+	<windows.h>
+	<mmsystem.h>
+	"dragHandler.h"
+	"parameter.h"
+
+1689000179 c:\program files\codeblocks\mingw\include\cpu_case.h
+	<GL/glut.h>
+	<windows.h>
+	<mmsystem.h>
+	"cpu_fan.h"
+
+1687717698 c:\program files\codeblocks\mingw\include\cpu_ram.h
+	<windows.h>
+	<mmsystem.h>
+	"parameter.h"
+
+1687717707 c:\program files\codeblocks\mingw\include\cpu_chipset.h
+	<windows.h>
+	<mmsystem.h>
+	"parameter.h"
+
+1687717728 c:\program files\codeblocks\mingw\include\cpu_gpu.h
+	<windows.h>
+	<mmsystem.h>
+	"parameter.h"
+
+1687717692 c:\program files\codeblocks\mingw\include\cpu_psu.h
+	<windows.h>
+	<mmsystem.h>
+	"parameter.h"
+	"bitmap.h"
+
+1688999087 c:\program files\codeblocks\mingw\include\bitmap.h
+	<GL/glut.h>
+
+1687717703 c:\program files\codeblocks\mingw\include\cpu_harddisk.h
+	<windows.h>
+	<mmsystem.h>
+	"parameter.h"
+
+1686752806 c:\program files\codeblocks\mingw\include\environment_objects.h
+	"parameter.h"
+	<math.h>
+
+1686752806 c:\program files\codeblocks\mingw\include\env_table.h
+	"parameter.h"
+
+1686752805 c:\program files\codeblocks\mingw\include\cpu_cable.h
+	<GL/glut.h>
+
+1686752806 c:\program files\codeblocks\mingw\include\light.h
+	<GL/glut.h>
+
+1689000246 c:\program files\codeblocks\mingw\include\man.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<windows.h>
+	<GL\glut.h>
+
